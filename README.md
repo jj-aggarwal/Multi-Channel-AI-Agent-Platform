@@ -1,4 +1,4 @@
-# Advance-Chatbot--communicate-with-platforms
+# Multi-Channel AI Agent Platform
 one central bot/agent engine with channel adapters 
 
                          ┌──────────────────────────┐
